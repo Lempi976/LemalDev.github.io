@@ -24,6 +24,7 @@ section{
 	padding-right: 10px
 }
 .flexcontainer{
+	display: flex;
 	background-color: DodgerBlue;
 }
 .flexcontainer > div{
