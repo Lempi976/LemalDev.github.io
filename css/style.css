@@ -23,12 +23,12 @@ section{
 	margin-top: 10px;
 	padding-right: 10px
 }
-.flexcontainer{
+.flex-container{
 	display: flex;
 	justify-content: flex-start;
 	background-color: DodgerBlue;
 }
-.flexcontainer > div{
+.flex-container > div{
 	background-color: #f1f1f1;
 	width: 100px;
 	margin: 10px;
