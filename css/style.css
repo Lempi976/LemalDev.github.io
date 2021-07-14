@@ -18,6 +18,8 @@ section{
 .list{
 	background-color: #d8d8d8;
 	display: inline-block;
+	float: left;
+	width: 50px;
 	margin-left: 10px;
 	margin-bottom: 5px;
 	margin-top: 10px;
