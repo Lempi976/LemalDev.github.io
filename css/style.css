@@ -27,4 +27,9 @@ article{
   	background-color: #f1f1f1;
   	height: 300px;
 }
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
