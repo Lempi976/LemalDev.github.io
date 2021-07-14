@@ -28,8 +28,8 @@ article{
   	height: 300px;
 }
 section::after {
-  content: "";
-  display: table;
-  clear: both;
+  	content: "";
+  	display: table;
+  	clear: both;
 }
 
