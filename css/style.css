@@ -41,4 +41,8 @@ footer {
  	text-align: center;
  	color: white;
 }
+footer ul {
+  	list-style-type: none;
+  	padding: 0;
+}
 
