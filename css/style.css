@@ -1,3 +1,6 @@
+* {
+  	box-sizing: border-box;
+}
 body{
 	background-color: #ffffff;
 	font-family: arial;
@@ -33,10 +36,10 @@ section::after {
   	clear: both;
 }
 footer {
-  background-color: #8a8a8a;
-  padding: 10px;
-  text-align: center;
-  color: white;
+  	background-color: #8a8a8a;
+ 	padding: 10px;
+ 	text-align: center;
+ 	color: white;
 }
 
 
