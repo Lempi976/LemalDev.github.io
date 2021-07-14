@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+}
 body{
 	background-color: #ffffff;
 	font-family: arial;
@@ -40,4 +41,4 @@ footer {
   text-align: center;
   color: white;
 }
-}
+
