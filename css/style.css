@@ -16,14 +16,10 @@ section{
 	background-color: #ffffff;
 }
 .list{
-	background-color: #d8d8d8;
-	display: inline-block;
 	float: left;
-	width: 50px;
-	margin-left: 10px;
-	margin-bottom: 5px;
-	margin-top: 10px;
-	padding-right: 10px
+  	padding: 20px;
+  	width: 50%;
+  	background-color: #f1f1f1;
 }
 .flex-container{
 	display: flex;
