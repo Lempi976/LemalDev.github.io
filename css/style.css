@@ -5,6 +5,7 @@ body{
 header{
 	background-color: 8a8a8a;
 	padding: 30px;
+	text-aligne: center;
 	font-size: 35px;
 	color:white;
 }
@@ -16,8 +17,8 @@ nav{
 	padding: 20px;
 }
 nav ul {
-  list-style-type: none;
-  padding: 0;
+  	list-style-type: none;
+  	padding: 0;
 }
 article{
 	float: left;
@@ -27,13 +28,8 @@ article{
   	height: 300px;
 }
 section{
-  content: "";
-  display: table;
-  clear: both;
-}
-section::after {
-  content: "";
-  display: table;
-  clear: both;
+  	content: "";
+  	display: table;
+  	clear: both;
 }
 
