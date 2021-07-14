@@ -10,7 +10,7 @@ header{
 	padding: 30px;
 	text-align: center;
 	font-size: 35px;
-	color:white;
+	color: white;
 }
 nav{
 	float: left;
@@ -24,7 +24,7 @@ nav ul {
   	padding: 0;
 }
 article{
-	float: right;
+	float: left;
 	width: 67%;
 	height: 300px;
 	background-color: #f1f1f1;
