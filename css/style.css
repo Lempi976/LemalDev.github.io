@@ -45,4 +45,10 @@ footer ul{
   	list-style-type: none;
   	padding: 0;
 }
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
 
