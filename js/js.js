@@ -1,17 +1,17 @@
+function ouvrirPage() {
+            var a = document.getElementById("search").value;
 
-     	function openPage() {
-            var x = document.getElementById("search").value;
+            if (a === "homepage") {
+                window.open("/index.html");
+            }
 
-            if (x === "dog") {
+            if (a === "skate video") {
                 window.open("/index3.html");
             }
 
-            if (x === "cat") {
+            if (a === "photos") {
                 window.open("/index4.html");
             }
-	    if (x === "cat") {
+	    if (a === "blog") {
                 window.open("/index5.html");
             }
-
-        }
-
