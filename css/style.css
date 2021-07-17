@@ -23,6 +23,18 @@ nav ul{
   	list-style-type: none;
   	padding: 0;
 }
+#search {
+            border-radius: 30px;
+            border: 2px solid black;
+        }
+
+        #button {
+            background-color: grey;
+            border: 0px solid black;
+            height: 30px;
+            border-radius: 30px;
+            cursor: pointer;
+        }
 article{
 	float: left;
 	width: 70%;
