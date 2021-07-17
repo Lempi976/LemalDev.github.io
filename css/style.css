@@ -15,7 +15,7 @@ header{
 nav{
 	float: left;
 	width: 30%;
-	height: 300px;
+	height: 100%;
 	background: #d6d6d6;
 	padding: 20px;
 }
@@ -26,7 +26,7 @@ nav ul{
 article{
 	float: left;
 	width: 70%;
-	height: 300px;
+	height: 100%;
 	background-color: #f1f1f1;
   	padding: 20px;
 }
