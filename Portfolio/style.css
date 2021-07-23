@@ -1,0 +1,27 @@
+body{
+  background: lightslategrey ;
+  font-family: Arial;
+}
+
+#container{
+  background: #336699;
+  border: 5px solid white;
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#btn{
+  font-family: Arial;
+  margin: 50px auto;
+  height: 50px;
+  width: 250px;
+  font-size: 22px;
+  background-color: lightyellow;
+}
+#output{
+  margin: 25px auto;
+  font-size: 26px;
+  color: white;
+}
